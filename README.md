@@ -2,7 +2,7 @@
 
 > A simple responsive react app to show the global data of infected,recovered and deaths cases of covid19, along with chart of the data and daily chart of the data.
 
-### ✨ [Demo]()
+### ✨ [Demo](https://covid19tracker-react-app.netlify.app/)
 
 ![alt text](demoScreen.gif)
 
