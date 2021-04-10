@@ -1,0 +1,25 @@
+body {
+  background: wheat;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.headerImage {
+  width: 350px;
+  margin-top: 40px;
+}
+
+@media only screen and (max-width: 650px) {
+  .container {
+    margin: 0 10px;
+  }
+  .headerImage {
+    width: 100%;
+    margin: 20px auto 0 auto;
+  }
+}
